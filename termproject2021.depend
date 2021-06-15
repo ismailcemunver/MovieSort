@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1623752004 source:c:\users\isoce\desktop\cse 211 term project 2021\termproject2021\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	"movierate.h"
+
+1623752174 c:\users\isoce\desktop\cse 211 term project 2021\termproject2021\movierate.h
+
